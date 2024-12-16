@@ -1,6 +1,6 @@
-# Awesome-Multimodal-Large-Language-Models
+# Awesome-Representation-of-Foundation-Models
 
-
+<!--
 ## Our MLLM works
 
 🔥🔥🔥 **A Survey on Multimodal Large Language Models**  
@@ -69,7 +69,7 @@ A representative evaluation benchmark for MLLMs. :sparkles:
 This is the first work to correct hallucination in multimodal large language models. :sparkles: </div>  
 
 
-
+-->
 
 ---
 
